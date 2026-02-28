@@ -80,7 +80,7 @@ git commit -m "chore: add gitignore"
 # Push commit to GitHub remote repository
 git push origin main
 ```
-![next Image](./1.png)
+
 ## Section 3: Create the Next.js app
 
 ### Scaffold Next.js app
@@ -108,8 +108,7 @@ Open the forwarded port (Codespaces "Ports" tab) and confirm the page loads.
 Here is the default Next.js starter page you should see:
 
 > [SCREENSHOT PLACEHOLDER — After running the dev server, capture the Next.js starter page and save a screenshot here.]
-![next Image](./3-1.png)
-
+![next Image](./1.png)
 
 
 ### Add a minimal UI 
@@ -168,6 +167,7 @@ vercel login
 ```
 
 > [SCREENSHOT PLACEHOLDER — After logging into Vercel (or running `vercel login`), capture the login prompt and save a screenshot here.]
+![next Image](./3-1.png)
 ![vercel](./3.png)
 ![next Image](./3-2.png)
 Now deploy the app from the `my-app/` folder
@@ -319,6 +319,7 @@ Open `http://localhost:3000` and click the **Check backend** button. It should r
 Example output:
 
 > [SCREENSHOT PLACEHOLDER — After clicking the backend check button, capture the health-check output and save a screenshot here.]
+
 ![next Image](./6.png)
 
 **Commit checkpoint:**
