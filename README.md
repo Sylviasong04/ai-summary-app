@@ -80,7 +80,7 @@ git commit -m "chore: add gitignore"
 # Push commit to GitHub remote repository
 git push origin main
 ```
-
+![next Image](./1.png)
 ## Section 3: Create the Next.js app
 
 ### Scaffold Next.js app
